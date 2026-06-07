@@ -1,3 +1,3 @@
 # Nombo Free Finds
 
-Freshness-filtered site: 51 direct free ads under 24 hours old.
+Static free-item board with 227 public links across 41095, Brooksville FL, and Newark OH. Descriptions include age where publicly visible and estimated value heuristics.
