@@ -1,3 +1,3 @@
 # Nombo Free Finds
 
-Static pilot board of free item listings near Warsaw, Kentucky.
+Deep-scan static site with 172 public free-item/source links across 41095 and Brooksville, Florida.
