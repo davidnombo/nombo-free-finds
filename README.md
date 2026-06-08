@@ -1,3 +1,3 @@
 # Nombo Free Finds
 
-Refreshed 2026-06-08T11:05:07.385505+00:00. Craigslist listing pages read for actual posted/updated ages: 250. Counts: {'41095': 50, 'Brooksville, FL': 50, 'Newark, OH': 50, 'Venice, FL': 50, 'Naples, FL': 50}. New vs yesterday: {'41095': 14, 'Brooksville, FL': 13, 'Newark, OH': 28, 'Venice, FL': 43, 'Naples, FL': 42}.
+Refreshed 2026-06-08T12:03:30.052602+00:00. Direct ads shown: 300. New vs baseline: 184. Missing/likely claimed: 183. Unchanged: 116. Locations: 41095, Brooksville, FL, Newark, OH, Venice, FL, Naples, FL, Monroe, OH. Source-index/yellow cards removed.
