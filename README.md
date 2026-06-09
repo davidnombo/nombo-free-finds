@@ -1,3 +1,3 @@
 # Nombo Free Finds
 
-UI update: up to 100/market support, manual localStorage deprioritize, auto-deprioritize mattresses and cloth/fabric couches/chairs. Counts: {'41095': 100, 'Brooksville, FL': 100, 'Newark, OH': 100, 'Venice, FL': 50, 'Naples, FL': 50, 'San Francisco, CA': 50}.
+Refreshed 2026-06-09T12:07:36.940875+00:00. Direct ads: 450. New: 234. Missing/dead: 84. Unchanged: 216. Baseline: free-finds-current-entries-20260608T120330Z.json.
